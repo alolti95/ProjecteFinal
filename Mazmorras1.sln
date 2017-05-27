@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazmorras1", "Assembly-CSharp.csproj", "{499666D1-FB62-EE95-DB89-0A9E42C47FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazmorras1", "Assembly-CSharp-Editor.csproj", "{927CFBAB-875F-ECC6-69DE-62A359FF6AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazmorras1", "Assembly-UnityScript.unityproj", "{D0AFCAE1-54F5-7D70-ECFD-923F976E3F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499666D1-FB62-EE95-DB89-0A9E42C47FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499666D1-FB62-EE95-DB89-0A9E42C47FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499666D1-FB62-EE95-DB89-0A9E42C47FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499666D1-FB62-EE95-DB89-0A9E42C47FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927CFBAB-875F-ECC6-69DE-62A359FF6AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927CFBAB-875F-ECC6-69DE-62A359FF6AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927CFBAB-875F-ECC6-69DE-62A359FF6AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927CFBAB-875F-ECC6-69DE-62A359FF6AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AFCAE1-54F5-7D70-ECFD-923F976E3F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AFCAE1-54F5-7D70-ECFD-923F976E3F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AFCAE1-54F5-7D70-ECFD-923F976E3F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AFCAE1-54F5-7D70-ECFD-923F976E3F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

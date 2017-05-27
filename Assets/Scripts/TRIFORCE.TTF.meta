@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6d04b4d3ca8016f43be61b9c88b64145
+timeCreated: 1494922048
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Triforce
+  fontNames:
+  - Triforce
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
